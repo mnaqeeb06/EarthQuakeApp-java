@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EarthQuakeApp</string>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <string name="near_the">Near the</string>
+
+    <string name="no_earthquakes">No earthquake found.</string>
+    <string name="no_internet">No Network found.</string>
+</resources>
